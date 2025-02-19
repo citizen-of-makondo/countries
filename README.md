@@ -42,6 +42,9 @@ islandCountries.forEach {
 }
 ```
 
+![bmc_qr](https://github.com/user-attachments/assets/4922fb58-0830-4d08-ab19-cc1aa717154a)
+
+
 ## License
 
 ```
